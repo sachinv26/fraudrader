@@ -41,4 +41,4 @@ Run the following commands from your terminal:
 
 
 ## LICENSE
-MMAS: Money Tracker is [MIT-licensed](https://github.com/sachinv26/fraudrader/blob/main/LICENSE).
+Fraudrader [MIT-licensed](https://github.com/sachinv26/fraudrader/blob/main/LICENSE).
