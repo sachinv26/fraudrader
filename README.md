@@ -1,6 +1,6 @@
 # Fraudrader
 
-> Fraud Radar is a platform that has significant information of a scam/fraud. <br />
+> FraudRader is a platform that has significant information of a scam/fraud. <br />
 
 
 
